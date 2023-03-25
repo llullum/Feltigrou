@@ -1,5 +1,0 @@
-let
-    var string := "My printed variable\n"
-in
-    print(string)
-end

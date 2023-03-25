@@ -1,7 +1,0 @@
-function who_am_i (i : int) =
-    if i <= 2 then
-        print("TIGROS\n")
-    else if (i <= 5) then
-        print("TIGROU\n")
-    else
-        print("TIGER\n")

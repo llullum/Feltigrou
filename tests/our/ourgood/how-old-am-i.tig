@@ -1,5 +1,0 @@
-let
-in
-    print_int(42);
-    print("\n")
-end

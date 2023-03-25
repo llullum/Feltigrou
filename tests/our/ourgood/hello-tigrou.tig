@@ -1,6 +1,0 @@
-let
-    function hello () =
-        print("Hi Tigrou!\n")
-in
-    hello()
-end

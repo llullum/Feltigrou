@@ -1,8 +1,0 @@
-/* if then else returning no result  */
-
-let
-	function proc() = ()
-in
-	if "hola"<>"chau" then 4 else proc();
-	0
-end

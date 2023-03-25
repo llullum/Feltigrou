@@ -1,5 +1,0 @@
-let
-in
-if (10 > 20) then 30;
-if (55 < 42) then 1
-end

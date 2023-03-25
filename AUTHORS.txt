@@ -1,4 +1,0 @@
-Thomas Corbiere            <thomas.corbiere@epita.fr>
-Adrien Aribaut-gaudin      <adrien.aribaut-gaudin@epita.fr>
-Thomas Didier              <thomas.didier@epita.fr>
-Lucas Luberriaga           <lucas.luberriaga@epita.fr>
