@@ -1,0 +1,6 @@
+let
+    var life := 42
+in
+    print_int(life);
+    print("\n")
+end

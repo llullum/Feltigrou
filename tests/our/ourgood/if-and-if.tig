@@ -1,0 +1,5 @@
+let
+    var a := if 1 & 2 then 1 & 1 else 0
+in
+ 42
+end
